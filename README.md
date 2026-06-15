@@ -20,6 +20,9 @@ I'm excited to share my latest **Financial Modeling and Equity Research Project*
 
 </div>
 ---
+## Looking for a custome dashboard? Let's connect!
+
+<img width="1918" height="908" alt="Screenshot 2026-06-15 074822" src="https://github.com/user-attachments/assets/70a3ca10-32ac-4c53-978e-81e2d4992289" />
 
 
 ## 📌 Project Highlights
