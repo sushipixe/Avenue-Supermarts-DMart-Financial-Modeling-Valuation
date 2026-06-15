@@ -19,6 +19,8 @@ I'm excited to share my latest **Financial Modeling and Equity Research Project*
 </a>
 
 </div>
+---
+
 
 ## 📌 Project Highlights
 
