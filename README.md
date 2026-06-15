@@ -5,8 +5,16 @@ I'm excited to share my latest **Financial Modeling and Equity Research Project*
 ## 📂 Project File
 
 <p align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1j5RZXt9slydhKq0EZSeuqz7FwjS_Zw1qObvY6IlS3HQ/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Financial%20Model-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="View Financial Model"/>
+  <a href="https://docs.google.com/spreadsheets/d/1j5RZXt9slydhKq0EZSeuqz7FwjS_Zw1qObvY6IlS3HQ/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Financial%20Model-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
