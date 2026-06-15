@@ -4,19 +4,21 @@ I'm excited to share my latest **Financial Modeling and Equity Research Project*
 
 ## 📂 Project File
 
-<p align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1j5RZXt9slydhKq0EZSeuqz7FwjS_Zw1qObvY6IlS3HQ/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Financial%20Model-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://docs.google.com/spreadsheets/d/1j5RZXt9slydhKq0EZSeuqz7FwjS_Zw1qObvY6IlS3HQ/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Financial%20Model-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<a href="https://sushipixe.github.io/Suraj-Finance-Portfolio/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/suraj-shikalgar-5aa857317">
+  <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ## 📌 Project Highlights
 
